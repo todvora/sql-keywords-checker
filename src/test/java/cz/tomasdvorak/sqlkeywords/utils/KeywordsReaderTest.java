@@ -1,7 +1,6 @@
 package cz.tomasdvorak.sqlkeywords.utils;
 
 
-import cz.tomasdvorak.sqlkeywords.utils.KeywordsReader;
 import org.junit.Assert;
 import org.junit.Test;
 
